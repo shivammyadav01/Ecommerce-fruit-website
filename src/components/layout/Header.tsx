@@ -16,13 +16,13 @@ const Header = () => {
             <small className="me-3">
               <i className="fas fa-map-marker-alt me-2 text-secondary" />{" "}
               <a href="#" className="text-white">
-                123 Street, New York
+                Sarita Vihar, New Delhi
               </a>
             </small>
             <small className="me-3">
               <i className="fas fa-envelope me-2 text-secondary" />
               <a href="#" className="text-white">
-                Email@Example.com
+                shivamyadavv0110@gmail.com
               </a>
             </small>
           </div>
